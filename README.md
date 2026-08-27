@@ -6,3 +6,4 @@ This repository contains all the C++ programs done in practical classes and theo
 5. Write a C++ program to calculate the sum of digits of a number (without using class and object)
 6. Write a C++ program to show Call by value concept
 7. Write a C++ program to show Call by reference concept
+8. Write a C++ program to check if a number and a string is palindrome number or not
