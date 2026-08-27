@@ -4,3 +4,5 @@ This repository contains all the C++ programs done in practical classes and theo
 3. Write a C++ program to find the largest number among three numbers (without using class and object)
 4. Write a C++ program to check if a number is palindrome number or not (without using class and object)
 5. Write a C++ program to calculate the sum of digits of a number (without using class and object)
+6. Write a C++ program to show Call by value concept
+7. Write a C++ program to show Call by reference concept
